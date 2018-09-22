@@ -1668,7 +1668,7 @@
 	Retina CSS
 -----------------------------------------------------------------*/
 
-
+/* TDE disable retina log stuff ---------------------------------------------------------
 @media
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (   min--moz-device-pixel-ratio: 2),
@@ -1739,4 +1739,4 @@ only screen and (                min-resolution: 2dppx) and (max-width: 991px) {
 	#logo a.standard-logo { display: none; }
 	#logo a.retina-logo { display: inline-block; }
 }
-
+---------------------------------------------------------------- */
