@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="118.4943mm"
+   height="34.211811mm"
+   viewBox="0 0 419.86171 121.22296"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/thomas/projects/sonoresgent.github.io/logo/3_logo_black_200x58.png"
+   inkscape:export-xdpi="42.869999"
+   inkscape:export-ydpi="42.869999"
+   sodipodi:docname="3_logo_black.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="45.529349"
+     inkscape:cy="-43.819664"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
+     showborder="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-172.86835,30.169452)"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3336"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99995041px;line-height:125%;font-family:Sarai;-inkscape-font-specification:'Sarai, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(5.154191,0,0,4.3246927,4388.1586,-366.32915)"><flowRegion
+         id="flowRegion3338"><rect
+           id="rect3340"
+           width="748.57141"
+           height="88.571434"
+           x="-1154.2858"
+           y="75.219345"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99995041px;line-height:125%;font-family:Sarai;-inkscape-font-specification:'Sarai, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.53319168px;line-height:125%;font-family:'Cantata One';-inkscape-font-specification:'Cantata One, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Sonores</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3346"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3348"><rect
+           id="rect3350"
+           width="780"
+           height="131.42857"
+           x="-1154.2858"
+           y="218.07649" /></flowRegion><flowPara
+         id="flowPara3352" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3354"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(1239.5714,-169.7143)"><flowRegion
+         id="flowRegion3356"><rect
+           id="rect3358"
+           width="768.57141"
+           height="145.71428"
+           x="-1062.8572"
+           y="206.64792"
+           style="fill:#000000" /></flowRegion><flowPara
+         id="flowPara3360"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.50000381px;line-height:125%;font-family:'Cantata One';-inkscape-font-specification:'Cantata One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Symfonieorkest Gent</flowPara></flowRoot>  </g>
+</svg>
