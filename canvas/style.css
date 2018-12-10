@@ -3703,7 +3703,7 @@ body:not(.device-touch) .grid-container {
 }
 
 
-/* Portfolio - Shuffle Icon
+	/* Portfolio - Shuffle Icon
 -----------------------------------------------------------------*/
 
 .portfolio-shuffle {
@@ -13593,3 +13593,12 @@ body:not(.no-transition) #wrapper,
 }
 
 
+
+
+/* ----------------------------------------------------------------
+	Sonores custom
+-----------------------------------------------------------------*/
+
+#sponsor-aanbod td.sponsor-subline {
+	padding-left:40px;
+}
