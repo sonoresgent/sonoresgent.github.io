@@ -13602,3 +13602,8 @@ body:not(.no-transition) #wrapper,
 #sponsor-aanbod td.sponsor-subline {
 	padding-left:40px;
 }
+
+.sponsor-heading {
+	max-width: 700px; 
+	font-size: 40px;
+}
