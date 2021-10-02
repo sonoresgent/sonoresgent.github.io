@@ -13607,3 +13607,7 @@ body:not(.no-transition) #wrapper,
 	max-width: 700px; 
 	font-size: 40px;
 }
+
+#section-concert i.icon-music {
+	padding-right: 15px;
+}
